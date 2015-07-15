@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UA</string>
+    <string name="сKiev">Киев</string>
+    <string name="action_settings">Настройки</string>
+    <string name="Vinnytsia">Винницкая область</string>
+    <string name="Volyn">Волынская область</string>
+    <string name="Dnipropetrovsk">Днепропетровская область</string>
+    <string name="Donetsk">Донецкая область</string>
+    <string name="Crimea">АР Крым</string>
+    <string name="Zhytomyr">Житомирская область</string>
+    <string name="Zakarpattia">Закарпатская область</string>
+    <string name="Zaporizhia">Запорожская область</string>
+    <string name="IvanoFrankivsk">Ивано-Франковская область</string>
+    <string name="Kharkiv">Харьковская область</string>
+    <string name="Kirovohrad">Кировоградская область</string>
+    <string name="Luhansk">Луганская область</string>
+    <string name="Lviv">Львовская область</string>
+    <string name="Mykolaiv">Николаевская область</string>
+    <string name="Odessa">Одесская область</string>
+    <string name="Poltava">Полтавская область</string>
+    <string name="Rivne">Ровенская область</string>
+    <string name="Sumy">Сумская область</string>
+    <string name="Ternopil">Тернопольская область</string>
+    <string name="Kherson">Херсонская область</string>
+    <string name="Khmelnytskyi">Хмельницкая область</string>
+    <string name="Cherkasy">Черкасская область</string>
+    <string name="Chernihiv">Черниговская область</string>
+    <string name="Chernivtsi">Черновицкая область</string>
+    <string name="cSevastopol">г. Севастополь</string>
+    <string name="Kyiv">Киевская область</string>
+
+</resources>
